@@ -6,7 +6,9 @@
 //  Copyright © 2016年 Apple. All rights reserved.
 //
 
-import Foundation
-
-print("Hello, World!")
-
+var sum=0;
+for var i=1;i<=100;i++
+{
+    sum+=i;
+}
+print(sum)
